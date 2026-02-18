@@ -1,9 +1,11 @@
-idee:
+//idee//:
+
 https://www.youtube.com/watch?v=F63GNXGHVwM
 
 https://www.youtube.com/@CodeBullet
 
-recherche:
+//recherche//:
+
 https://www.youtube.com/watch?v=ncj_hBfRt-Y
 
 https://www.youtube.com/watch?v=Wo5dMEP_BbI
